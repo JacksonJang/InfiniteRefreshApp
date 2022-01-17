@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (5.5.0)
+  - JAlert (0.4.2)
+  - SwiftyJSON (5.0.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - JAlert
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - JAlert
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 1c4fb5369c3fe93d2857c780d8bbe09f06f97e7c
+  JAlert: bb60c570ecdd8e3beb2c131192f88d0520e7d9dd
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+
+PODFILE CHECKSUM: f2d28ae487674edc21561cad676800a0e77c3293
+
+COCOAPODS: 1.11.2
